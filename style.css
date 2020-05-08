@@ -7,3 +7,55 @@ td, th {
     border: 1px solid black;
     padding: 5px 10px;
 }
+
+h1 {
+    font-size: x-large;
+    text-align: center;
+}
+
+form {
+    text-align: right;
+}
+
+.drop {
+    text-align: right;
+}
+
+.chart {
+    padding: 1em;
+}
+
+.search {
+    padding: 2em;
+}
+
+#coffees {
+
+}
+
+.coffee {
+    border: 10px outset #7c5402;
+    display: flex;
+    margin-right: 400px;
+    margin-top: 20px;
+}
+
+.roast-name {
+    margin-left: auto;
+}
+.search {
+    width: 94%;
+}
+
+input[type=submit] {
+    width: 27%;
+}
+
+input[type=text] {
+    width: 30%;
+}
+
+.roast-selection{
+    width: 30%;
+}
+
